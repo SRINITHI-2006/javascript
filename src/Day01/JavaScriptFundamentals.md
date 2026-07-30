@@ -30,6 +30,7 @@
 5. STRINGS & TEMPLATE LITERALS
    - "hello".length, .toUpperCase(), .slice(0, 3)
    - Template literal: `My name is ${name}` (backticks + ${})
+       
           Instead of:
                 let name = "Alex";
                 console.log("My name is " + name);
