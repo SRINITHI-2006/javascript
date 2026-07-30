@@ -1,4 +1,7 @@
+JavaScript:
+   JavaScript is a dynamically-typed, interpreted programming language used to add interactivity and logic to web pages. It runs in browsers and, via Node.js, on servers too.
 
+   
 1. VARIABLES
    - const  -> value never changes (use by default)
    - let    -> value can change
