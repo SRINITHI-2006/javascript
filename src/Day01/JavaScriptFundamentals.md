@@ -7,8 +7,14 @@
    const name = "Alex";
    let age = 25;
    age = 26; // allowed with let
+
+
+   const name = "Srinithi";
+   let age = 20;
+   console.log("Name:", name);
+   console.log("Age:", age);
  
-2. DATA TYPES
+3. DATA TYPES
    - string, number, boolean, undefined, null
    - check type with: typeof value
  
@@ -16,18 +22,18 @@
    let score = 100;           // number
    let isDone = true;         // boolean
  
-3. TYPE CONVERSION
+4. TYPE CONVERSION
    - Number("42") -> converts string to number
    - String(42)   -> converts number to string
    - "5" + 1 -> "51" (string concatenation)
    - "5" - 1 -> 4   (converted to number(-,*,/))
  
-4. OPERATORS
+5. OPERATORS
    - Arithmetic: + - * / % **
    - Comparison: == (compares values only) vs === (compares values and datatypes)
    - Logical: && (and), || (or), ! (not)
  
-5. STRINGS & TEMPLATE LITERALS
+6. STRINGS & TEMPLATE LITERALS
    - "hello".length, .toUpperCase(), .slice(0, 3)
    - Template literal: `My name is ${name}` (backticks + ${})
        
