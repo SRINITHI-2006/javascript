@@ -9,10 +9,10 @@
    age = 26; // allowed with let
 
  
-   const name = "Srinithi";
-   let age = 20;
-   console.log("Name:", name);
-   console.log("Age:", age);
+           const name = "Srinithi";
+           let age = 20;
+           console.log("Name:", name);
+           console.log("Age:", age);
  
 3. DATA TYPES
    - string, number, boolean, undefined, null
