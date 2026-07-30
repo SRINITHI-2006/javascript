@@ -8,7 +8,7 @@
    let age = 25;
    age = 26; // allowed with let
 
-
+ 
    const name = "Srinithi";
    let age = 20;
    console.log("Name:", name);
