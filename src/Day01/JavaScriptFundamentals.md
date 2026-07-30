@@ -33,6 +33,14 @@
    - String(42)   -> converts number to string
    - "5" + 1 -> "51" (string concatenation)
    - "5" - 1 -> 4   (converted to number(-,*,/))
+
+         // String Concatenation (+)
+           let result1 = "5" + 1;
+           console.log("Result of '5' + 1:", result1);//o/p:51
+
+         // String to Number Conversion (-)
+            let result2 = "5" - 1;
+            console.log("Result of '5' - 1:", result2);//o/p:4
  
 5. OPERATORS
    - Arithmetic: + - * / % **
