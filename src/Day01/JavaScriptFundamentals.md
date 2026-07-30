@@ -17,6 +17,12 @@
 3. DATA TYPES
    - string, number, boolean, undefined, null
    - check type with: typeof value
+
+           console.log(typeof "Hello");
+           console.log(typeof 100);
+           console.log(typeof true);
+           console.log(typeof undefined);
+           console.log(typeof null);
  
    let city = "Chennai";      // string
    let score = 100;           // number
