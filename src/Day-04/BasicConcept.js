@@ -3,6 +3,11 @@ let fruits = ["apple", "banana", "mango"];
 console.log(fruits[0]);      // "apple"
 console.log(fruits[2]);      // "mango"
 console.log(fruits.length);  // 3
+
+
+//to get the array as user input
+let input = prompt("Enter numbers separated by spaces:");
+let arr = input.split(" ").map(Number);
  
 // ---------- Adding & Removing Items ----------
 
