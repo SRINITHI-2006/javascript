@@ -11,3 +11,12 @@ console.log(x); // 6
 let y = 5;
 console.log(y++); // 5
 console.log(y); // 6
+
+// decrement operator
+let x = 5;
+console.log(--x); // 4
+console.log(x); // 4
+
+let y = 5;
+console.log(y--); // 5
+console.log(y); // 4
